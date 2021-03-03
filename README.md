@@ -29,7 +29,7 @@ Get by Songs add "Gala"
 http://localhost:8080/songs/song/Gala
 
 Get by Genres add "Rock"
-http://localhost:8080/songs/genres/Rock
+http://localhost:8080/songs/genre/Rock
 
 
 Important: The server listens on port:8080
