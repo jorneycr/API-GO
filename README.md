@@ -3,30 +3,33 @@
 Test: Jorney Lopez
 
 
-GitHub: https://github.com/jorneylm/API-go
+GitHub: https://github.com/jorneylm/API-GO
 
 # Get o clone Project
-git@github.com:jorneylm/API-go.git
+git@github.com:jorneylm/API-GO.git
 
 
 # Install
-Driver for SQLite3
-go get -u -v github.com/mattn/go-sqlite3
+Glide (To managment package) I install with Visual Studio Code (VS code Glide), then Open terminal on VS Code >Glide:Install.
+
+go build 
+
+go run *.go
 
 
 # Rutas
 
 All Songs
-http://localhost:8080/songs/
+http://localhost:8080/songs
 
 Get by Artist add "Colornoise" 
-http://localhost:8080/artist/Colornoise
+http://localhost:8080/songs/artist/Colornoise
 
 Get by Songs add "Gala"
-http://localhost:8080/song/Gala
+http://localhost:8080/songs/song/Gala
 
 Get by Genres add "Rock"
-http://localhost:8080/genres/1
+http://localhost:8080/songs/genres/Rock
 
 
 Important: The server listens on port:8080
