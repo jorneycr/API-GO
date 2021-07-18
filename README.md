@@ -1,12 +1,4 @@
 # API GOLANG
- 
-Test: Jorney Lopez
-
-
-GitHub: https://github.com/jorneylm/API-GO
-
-# Get o clone Project
-git@github.com:jorneylm/API-GO.git
 
 
 # Install
